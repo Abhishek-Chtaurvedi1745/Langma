@@ -1,11 +1,13 @@
 @import "tailwindcss";
-font-family: "Roboto", sans-serif;
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
+}
+*{
+  font-family: "Roboto", sans-serif;
 }
 
 .scrollbar-hide {
