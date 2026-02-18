@@ -7,7 +7,7 @@ import LangmaSection from "../../Pages/HomePages/LangmaSection";
 import FAQ from "../../Pages/HomePages/FAQ";
 import CTASection from "../Common/CTASection";
 import BusinessExchange from "./BusinessExchange";
-import Whychooselagma from "./whychooselagma";
+import Whychooselagma from "./Whychooselagma";
 import Program_Highlights from "./Program_Highlights";
 import WhoShouldjoinprogram from "./WhoShouldjoinprogram";
 import ConnectedSection from "../../Pages/HomePages/ConnectedSection";
