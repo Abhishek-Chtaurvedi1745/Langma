@@ -32,7 +32,7 @@ import UnitedArabEmirates from "./Components/Common/UnitedArabEmirates Page/Unit
 import Mauritius from "./Components/Common/Mauritius Page/Mauritius";
 import Arabic from "./Components/Common/ArabicPages/Arabic";
 import BalkanLanguage from "./Components/Common/BalkanLanguage page/BalkanLanguage";
-import Chinese from "./Components/Common/Chinesepage/ChinesePage";
+import Chinese from "./Components/Common/ChinesePage/Chinese";
 import Frame from "./Components/Common/FramePage/Frame";
 import French from "./Components/Common/FrenchPage/French";
 import German from "./Components/Common/GermanPage/German";
